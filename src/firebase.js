@@ -1,3 +1,5 @@
+
+
 // Import the functions you need from the SDKs you need
 import { initializeApp } from "firebase/app";
 import { getAuth } from "firebase/auth";
@@ -6,12 +8,12 @@ import { getAuth } from "firebase/auth";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyBikODAy5frr4qpMfRrH9IKSrWUigBPdws",
-  authDomain: "altschool-exam-da24a.firebaseapp.com",
-  projectId: "altschool-exam-da24a",
-  storageBucket: "altschool-exam-da24a.appspot.com",
-  messagingSenderId: "400889797828",
-  appId: "1:400889797828:web:05a32495eff1b695ba7d91"
+  apiKey: "AIzaSyCk3E30zvluMKnovAladcMNZsr-WXlr47A",
+  authDomain: "altschool-exam02.firebaseapp.com",
+  projectId: "altschool-exam02",
+  storageBucket: "altschool-exam02.appspot.com",
+  messagingSenderId: "452276011977",
+  appId: "1:452276011977:web:2c12fb207b4d13c0de9e18"
 };
 
 // Initialize Firebase
